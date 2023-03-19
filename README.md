@@ -10,7 +10,7 @@ This is an Android app that provides a convenient and seamless way to chat with 
 * Android Lollipop 5.0 (API level 21) or higher
 
 ## Installation
-* You can download the latest version of the app from the [Releases](chat.openai.com) page of this repository.
+* You can download the latest version of the app from the [Releases](https://github.com/pradeepkarthik77/chatgpt_app/releases/) page of this repository.
 
 ## Usage
 * Install the app on your Android device.
@@ -18,4 +18,4 @@ This is an Android app that provides a convenient and seamless way to chat with 
 * Start chatting with ChatGPT!
 
 Contributing
-Any contributions or suggestions for improving the app are welcome. If you encounter any issues or have any ideas for new features, please feel free to open an [issue]() or submit a [pull request]().
+Any contributions or suggestions for improving the app are welcome. If you encounter any issues or have any ideas for new features, please feel free to open an [issue](https://github.com/pradeepkarthik77/chatgpt_app/issues) or submit a [pull request](https://github.com/pradeepkarthik77/chatgpt_app/pulls).
