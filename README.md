@@ -10,6 +10,7 @@ This is an Android app that provides a convenient and seamless way to chat with 
 * Android Lollipop 5.0 (API level 21) or higher
 
 ## Installation
+### [Releases](https://github.com/pradeepkarthik77/chatgpt_app/releases/)
 * You can download the latest version of the app from the [Releases](https://github.com/pradeepkarthik77/chatgpt_app/releases/) page of this repository.
 
 ## Usage
