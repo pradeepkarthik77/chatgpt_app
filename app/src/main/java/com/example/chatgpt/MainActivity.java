@@ -10,7 +10,7 @@ import android.webkit.WebViewClient;
 
 public class MainActivity extends AppCompatActivity {
 
-    WebView webView;
+    WebView webView; //declare the webview
 
     @Override
     public void onBackPressed() {
