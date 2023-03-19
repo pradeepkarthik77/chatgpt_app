@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ChatGPT" parent="Theme.MaterialComponents.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#0F9B79</item>
+        <item name="colorPrimaryVariant">#0F9B79</item>
+        <item name="colorOnPrimary">#0F9B79</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">#0F9B79</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#0F9B79</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
